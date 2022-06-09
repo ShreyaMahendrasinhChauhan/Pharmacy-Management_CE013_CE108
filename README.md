@@ -1,1 +1,1 @@
-# Pharmacy-Management_CE013_CE108
+# Pharmacy-Management_
